@@ -1,2 +1,2 @@
 # SmartReservation-Repo
-A hotel reservation system
+A hotel reservation system.
